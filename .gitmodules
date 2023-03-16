@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "coarseDataTools"]
+	path = coarseDataTools
+	url = https://github.com/nickreich/coarsedatatools
+	shallow = true
+	registered = true
